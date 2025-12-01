@@ -10,4 +10,6 @@ Dokumentace k projektu z předmětu softwarové inženýrství
 
 sfasdf asdf
 
+fasdfgasdg
+
 continued text
